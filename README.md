@@ -37,7 +37,7 @@ _🧩 A TypeScript starter for solving LeetCode problems with test-driven develo
 
 In the root directory of the repo, run
 ```shell
-npm run new-problem '<title>'
+npm run new-problem '238. Product of Array Except Self' '<title>'
 ```
 <details>
  <summary>
